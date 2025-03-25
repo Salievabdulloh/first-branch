@@ -9,7 +9,8 @@ Before using Git, configure your username and email:
 
 ```sh
 git init "First thing you'd do"
-git config --global user.email "your-email@example.com"
+git add . "Takes everything from your page and puts it in git"
+git commit -m (**your commit**) "You create your commit and name it"
 
 ### **How to Use It?**  
 1. Create a `README.md` file in your project folder.  
